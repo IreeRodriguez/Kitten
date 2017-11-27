@@ -1,0 +1,32 @@
+ /*Small devices */
+@media (max-width: 576px) {
+    section{
+        background-image: url(../img/night.jpg);
+    }
+    .cat1{
+        display: inline-block;
+    }
+
+}
+ /* Small devices (landscape) */
+@media (min-width: 576px) and (max-width: 991px) {
+    section{
+        background-image: url(../img/dawn.png);
+    }
+    .cat2{
+        display: inline-block;
+    }
+}
+/* medium devices (tablets) */
+/*@media (min-width: 768px) and (max-width: 991px) {}*/
+/* Large devices
+@media (min-width: 992px) and (max-width 1199px) {}*/
+@media (min-width: 992px) {
+    section{
+        background-image: url(../img/sunny-day.jpg);
+    }    .cat3{
+            display: inline-block;
+        }
+}
+/* Extra large devices */
+/*@media (min-width: 1200px) {}*/

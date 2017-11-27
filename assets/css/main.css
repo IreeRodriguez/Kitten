@@ -1,0 +1,11 @@
+section{
+    text-align: center;
+    /*background-image: url(../img/night.jpg);*/
+    background-size: 100%;
+    height: auto;
+    padding: 20%;
+}
+img{
+    width: 40%;
+    display: none;
+}
